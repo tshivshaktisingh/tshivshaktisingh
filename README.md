@@ -1,4 +1,4 @@
-Hi 👋 My name is Shiv Shakti Singh
+Hi! My name is Shiv Shakti Singh
 ==================================
 
 Software Student
